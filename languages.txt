@@ -1,0 +1,4 @@
+Sanity for database and backend
+GROQ ~ to graphQl for queries
+
+npm install -g @sanity/cli
